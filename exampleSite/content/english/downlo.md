@@ -4,7 +4,7 @@ description = "downlo descr"
 layout = "download"
 subtitle = "downl subt"
 text_area = "adiasdionasidnaosdniasdo"
-title = "downlo"
+title = "download"
 
 +++
 oinasiodnioasndioansoidnionoiiasfn 
