@@ -11,12 +11,18 @@ fields:
 - type: text
   name: subtitle
   label: subtitle
-- type: datetime
-  name: lastmod
-  label: lastmod
 - type: file
   name: bg_image
   label: bg_image
 - type: text
   name: layout
   label: layout
+- name: text_area
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: text area
