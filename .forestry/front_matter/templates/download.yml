@@ -26,5 +26,3 @@ fields:
     schema:
       format: markdown
   label: text area
-pages:
-- exampleSite/content/english/downlo.md
