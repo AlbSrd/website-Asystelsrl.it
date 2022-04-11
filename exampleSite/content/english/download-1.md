@@ -1,10 +1,9 @@
 +++
-bg_image = "/images/mise.webp"
+bg_image = "/images/portfolio/work3.jpg"
 description = ""
-draft = true
-lastmod = 2022-02-14T01:00:00Z
-layout = "faq"
-subtitle = "Crediti d'imposta per stimolare gli investimenti"
+lastmod = 2022-04-10T00:00:00Z
+layout = "DOWNLOAD"
+subtitle = "software"
 title = "DOWNLOAD"
 
 +++
