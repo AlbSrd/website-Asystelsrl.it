@@ -1,0 +1,51 @@
+---
+label: Project
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+  description: this is meta description
+- type: file
+  name: image
+  label: image
+- type: file
+  name: bg_image
+  label: bg image
+  description: page header background image
+- type: text
+  name: category
+  label: category
+  description: Filter Category
+- type: field_group_list
+  name: information
+  label: information
+  fields:
+  - type: text
+    name: label
+    label: label
+  - type: text
+    name: info
+    label: info
+pages:
+- exampleSite/content/english/project/approvvigionamenti.md
+- exampleSite/content/english/project/approvvigionamenti.md
+- exampleSite/content/english/project/articoli.md
+- exampleSite/content/english/project/articoli.md
+- exampleSite/content/english/project/asytrack-pmi.md
+- exampleSite/content/english/project/asytrack-pmi.md
+- exampleSite/content/english/project/bassa-tensione.md
+- exampleSite/content/english/project/bassa-tensione.md
+- exampleSite/content/english/project/commesse.md
+- exampleSite/content/english/project/commesse.md
+- exampleSite/content/english/project/dashboard.md
+- exampleSite/content/english/project/dashboard.md
+- exampleSite/content/english/project/magazzino.md
+- exampleSite/content/english/project/magazzino.md
+- exampleSite/content/english/project/ordini-cliente.md
+- exampleSite/content/english/project/ordini-cliente.md
+- exampleSite/content/english/project/produzione.md
+- exampleSite/content/english/project/produzione.md
