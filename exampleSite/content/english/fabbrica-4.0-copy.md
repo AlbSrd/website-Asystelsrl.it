@@ -1,13 +1,13 @@
 +++
-bg_image = "/images/blog/blog-post-4.jpg"
+bg_image = "/images/mise.webp"
 description = ""
-lastmod = "2022-02-14T01:00:00.000+00:00"
-layout = "faq"
-subtitle = "Crediti d'imposta per stimolare gli investimenti"
+lastmod = 2022-04-11T00:00:00Z
+layout = "download"
+subtitle = "download"
 title = "DOWNLOAD"
 
 +++
-## <U>1 Credito d’imposta per investimenti in beni strumentali</U>
+## <U>1DOWNLOAD</U>
 
 Serve a supportare e incentivare le imprese che investono in beni strumentali nuovi, materiali e immateriali, funzionali alla trasformazione tecnologica e digitale dei processi produttivi destinati a strutture produttive ubicate nel territorio dello Stato.
 
