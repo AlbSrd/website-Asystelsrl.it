@@ -15,25 +15,7 @@ about:
     enable: true
     label: Download Company Profile
     link: "#"
-  funfacts:
-  - icon: fas fa-flask
-    name: Completed Projects
-    count: "349"
-  - icon: fas fa-fire-alt
-    name: Lines Of Code
-    count: "35000"
-  - icon: fas fa-glasses
-    name: Satisfied Customer
-    count: "70"
-  - icon: fas fa-trophy
-    name: Awards Winner
-    count: "10"
-  - icon: fas fa-glass-cheers
-    name: Satisfied Customer
-    count: "75"
-  - icon: fas fa-certificate
-    name: Awards Winner
-    count: "20"
+  funfacts: []
 features:
   enable: true
   title: We are indepented Design & Development Agency
@@ -104,18 +86,3 @@ cta:
   enable: false
 
 ---
-# asdasdasdasdas
-
-![](/images/sap.png)
-
-sdgdsgdsgsdgsdgfdsg
-
-fes
-
-g
-
-df
-
-sh
-
-gfhs
