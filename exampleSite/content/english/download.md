@@ -1,5 +1,5 @@
 ---
-title: About Our Company
+title: download
 description: this is meta description
 bg_image: images/feature-bg.jpg
 layout: download
@@ -17,7 +17,7 @@ about:
     link: "#"
   funfacts: []
 features:
-  enable: true
+  enable: false
   title: We are indepented Design & Development Agency
   feature_item:
   - icon: fab fa-app-store-ios
