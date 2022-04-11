@@ -1,11 +1,10 @@
 +++
-bg_image = "/images/mise.webp"
+bg_image = "/images/blog/blog-post-4.jpg"
 description = ""
-draft = true
-lastmod = 2022-02-14T01:00:00Z
+lastmod = "2022-02-14T01:00:00.000+00:00"
 layout = "faq"
 subtitle = "Crediti d'imposta per stimolare gli investimenti"
-title = "FABBRICA 4.0-(copy)"
+title = "DOWNLOAD"
 
 +++
 ## <U>1 Credito d’imposta per investimenti in beni strumentali</U>
