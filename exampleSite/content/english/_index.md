@@ -10,7 +10,7 @@ banner:
     label: Discover Our Project
     link: project/
 about:
-  enable: false
+  enable: true
   title: CHI SIAMO
   description: ''
   content: |-
