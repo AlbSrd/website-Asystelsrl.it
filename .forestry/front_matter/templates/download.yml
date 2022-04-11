@@ -20,5 +20,3 @@ fields:
 - type: text
   name: layout
   label: layout
-pages:
-- exampleSite/content/english/download.md
