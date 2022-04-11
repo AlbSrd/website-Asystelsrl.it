@@ -101,7 +101,7 @@ mission_vision:
       ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
       temporibus eos sequi alias hic nemo.
 cta:
-  enable: true
+  enable: false
 
 ---
 # asdasdasdasdas
