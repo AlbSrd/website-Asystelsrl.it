@@ -1,0 +1,22 @@
+---
+label: download
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: subtitle
+  label: subtitle
+- type: datetime
+  name: lastmod
+  label: lastmod
+- type: file
+  name: bg_image
+  label: bg_image
+- type: text
+  name: layout
+  label: layout
