@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ with .Params.pricing }}
+{{ if .enable }}
+<section class="download-table section bg-gray">
+  <div class="container">
+aaaa
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+<!-- Call to action -->
+{{ if .Params.cta.enable }}
+{{ partial "cta.html" . }}
+{{ end }}
+<!-- /Call to action -->
+
+{{ end }}
