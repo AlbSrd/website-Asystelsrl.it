@@ -1,0 +1,39 @@
+baseURL = "baseurl"
+disableLanguages = ["de", "it", "fr"]
+disqusShortname = "themefisher-template"
+googleAnalytics = ""
+hasCJKLanguage = false
+paginate = "6"
+summaryLength = "10"
+theme = "theme"
+timeZone = "UTC"
+title = "Asystel s.r.l. Trevi (PG)"
+[caches.assets]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+[caches.images]
+dir = ":resourceDir/_gen"
+maxAge = "720h"
+[imaging]
+quality = "99"
+[markup.goldmark.renderer]
+unsafe = true
+[markup.highlight]
+style = "monokai"
+[markup.tableOfContents]
+endLevel = 6
+ordered = false
+startLevel = 2
+[mediaTypes."application/manifest+json"]
+suffixes = ["webmanifest"]
+[mediaTypes."text/netlify"]
+delimiter = ""
+suffixes = [""]
+[module.hugoVersion]
+extended = true
+min = "0.87.0"
+[outputFormats.WebAppManifest]
+mediaType = "application/manifest+json"
+rel = "manifest"
+[outputs]
+home = ["HTML", "WebAppManifest"]

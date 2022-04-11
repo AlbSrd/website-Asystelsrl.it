@@ -1,0 +1,40 @@
+[[footer]]
+name = "DOWNLOAD"
+url = "download/"
+weight = "80"
+[[footer]]
+name = "TELEFONO 0742 381401"
+url = "contact/"
+weight = "90"
+[[footer]]
+name = "HOME"
+url = ""
+weight = "1"
+[[footer]]
+name = "PRODOTTI"
+url = "project/"
+weight = "30"
+[[footer]]
+name = "FABBRICA 4.0"
+url = "faq/"
+weight = "60"
+[[footer]]
+name = "CONTATTI"
+url = "contact/"
+weight = "70"
+[[main]]
+name = "HOME"
+url = ""
+weight = 1
+[[main]]
+name = "PRODOTTI"
+url = "project/"
+weight = 3
+[[main]]
+name = "FABBRICA 4.0"
+url = "faq/"
+weight = "6"
+[[main]]
+name = "CONTATTI"
+url = "contact/"
+weight = "7"

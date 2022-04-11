@@ -1,0 +1,60 @@
+address_descriptors = false
+author = "Themefisher"
+copyright = ""
+custom_script = ""
+description = "This is meta description"
+email = "email@provider.it"
+favicon = "images/favicon.png"
+google_tag_manager = ""
+image = "images/logo.png"
+location = "Asystel Via Pietrarossa,1 Trevi (PG) 06039"
+logo = "images/logo.png"
+logo_text = "ASYSTEL"
+logo_width = "150px"
+navbar_fixed = false
+phone = "0742 381401"
+recaptcha_site_key = "xxx-xxxxxxxxxxxxxxxxxxxxxxxx"
+social = []
+[baidu]
+analytics_id = ""
+enable = false
+[contact.form]
+action = "https://formspree.io/f/mrgjpnnd"
+enable = true
+success_image = "images/paper-plane.svg"
+use_netlify = false
+use_recaptcha = false
+[cookies]
+button = "Accetto"
+content = "Questo sito utilizza cookies. Continuando acconsenti al loro utilizzo."
+enable = false
+expire_days = "2"
+[counter]
+enable = false
+username = ""
+[gmap]
+enable = false
+gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+[matomo]
+enable = false
+id = ""
+url = ""
+[navigation_button]
+enable = true
+label = "get a quote"
+link = "contact"
+[plausible]
+domain = ""
+enable = false
+[preloader]
+enable = true
+preloader = ""
+[site_verification]
+baidu = ""
+bing = ""
+google = ""
+[widgets]
+sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
