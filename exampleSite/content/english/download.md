@@ -65,7 +65,7 @@ features:
 testimonial:
   enable: true
 mission_vision:
-  enable: true
+  enable: false
   tabs:
   - name: Vision
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
