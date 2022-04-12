@@ -52,12 +52,20 @@ cta:
 funfacts:
   enable: true
   title: I VANTAGGI DEL DIGITALE
-  description: |
-    L’industria 4.0 è da alcuni anni al centro della trasformazione economica in Italia e nel mondo. Illustrata all’interno della legge di Bilancio 2017  si pone l’obiettivo di mobilitare investimenti in ricerca, sviluppo e innovazione con focus sulle tecnologie dell’Industria 4.0. Questo piano ha poi subito evoluzioni e revisioni: da Piano Industria 4.0 a Piano Impresa 4.0 fino al piano nazionale della Transizione 4.0 attualmente in vigore.
-
-    I concetti chiave sono Automatizzazione ed Interconnessione.
-
-    La prima riguarda l’utilizzo dei dati, la potenza di calcolo e la connettività, e si declina in big data, open data, IoT, machine-to-machine e cloud computing per la centralizzazione delle informazioni e la loro conservazione. La seconda è quella degli analytics: una volta raccolti i dati, bisogna ricavarne valore. Oggi solo l’1% dei dati raccolti viene utilizzato dalle imprese, che potrebbero invece ottenere vantaggi a partire dal “machine learning”, dalle macchine cioè che perfezionano la loro resa “imparando” dai dati via via raccolti e analizzati.
+  description: "L’industria 4.0 è da alcuni anni al centro della trasformazione economica
+    in Italia e nel mondo. Illustrata all’interno della legge di Bilancio 2017  si
+    pone l’obiettivo di mobilitare investimenti in ricerca, sviluppo e innovazione con
+    focus sulle tecnologie industriali di nuova concezione.\nQuesto piano ha subito,
+    nel tempo, evoluzioni e revisioni passando da Piano Industria 4.0 a Piano Impresa
+    4.0 fino al piano nazionale della Transizione 4.0 attualmente in vigore.\n\nI
+    concetti chiave sono Automatizzazione ed Interconnessione.\n\nLa prima riguarda
+    l’utilizzo di dati, potenza di calcolo e connettività che si declina in tutta
+    una serie di ambiti tecnologici come Big Data, Open Data, machine-to-machine e
+    cloud computing per la centralizzazione e conservazione delle informazioni. \nLa
+    seconda è quella degli analytics: una volta raccolti i dati, bisogna ricavarne
+    valore. Oggi solamente l’1% dei dati raccolti viene utilizzato dalle imprese che,
+    invece, potrebbero ottenere grandi vantaggi utilizzando il “machine learning”ioè
+    che perfezionano la loro resa “imparando” dai dati via via raccolti e analizzati.\n"
   funfact_item:
   - icon: fas fa-calendar-day
     name: ''
