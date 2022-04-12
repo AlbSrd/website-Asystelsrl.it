@@ -63,9 +63,9 @@ funfacts:
     una serie di ambiti tecnologici come Big Data, Open Data, machine-to-machine e
     cloud computing per la centralizzazione e conservazione delle informazioni. \nLa
     seconda è quella degli analytics: una volta raccolti i dati bisogna ricavarne
-    valore. Oggi solamente l’1% dei dati raccolti viene utilizzato dalle imprese che,
-    invece, potrebbero ottenere grandi vantaggi utilizzando il “machine learning”ioè
-    che perfezionano la loro resa “imparando” dai dati via via raccolti e analizzati.\n"
+    valore. Oggi solamente l’1% dei dati raccolti viene utilizzato dalle imprese che
+    \ potrebbero, invece, sfruttarli per ottenere grandi vantaggi grazie a Machine Learning
+    e Data Warehousing.\n"
   funfact_item:
   - icon: fas fa-calendar-day
     name: ''
