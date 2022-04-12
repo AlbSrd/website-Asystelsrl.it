@@ -60,9 +60,9 @@ funfacts:
     4.0 fino al piano nazionale della Transizione 4.0 attualmente in vigore.\n\nI
     concetti chiave sono Automatizzazione ed Interconnessione.\n\nLa prima riguarda
     l’utilizzo di dati, potenza di calcolo e connettività che si declina in tutta
-    una serie di ambiti tecnologici come Big Data, Open Data, machine-to-machine e
-    cloud computing per la centralizzazione e conservazione delle informazioni. \nLa
-    seconda è quella degli analytics: una volta raccolti i dati bisogna ricavarne
+    una serie di soluzioni tecnologiche come l'utilizzo di Big Data, machine-to-machine
+    e cloud computing per la centralizzazione e conservazione delle informazioni.
+    \nLa seconda è quella degli analytics: una volta raccolti i dati bisogna ricavarne
     valore. Oggi solamente l’1% dei dati raccolti viene utilizzato dalle imprese che
     \ potrebbero, invece, sfruttarli per ottenere grandi vantaggi grazie a Machine Learning
     e Data Warehousing.\n"
